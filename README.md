@@ -7,9 +7,8 @@ This is my attempt to practice cuda now this isnt the best optimization for the 
 ## Previous 2k Particles
 ![OldCode-ezgif com-optimize](https://github.com/luis0o2/CudaParticleCollision/assets/59019460/7f5fcf1e-cbc6-428c-93fd-43055e0b8d0e)
 
-
-
 ## New 2k Particles
+![ezgif com-optimize](https://github.com/luis0o2/CudaParticleCollision/assets/59019460/d0683d1b-f27c-4fc4-adee-8376965673c1)
 
 ## Features:
 Particle Physics: Utilizes CUDA parallel computing to handle particle movement and collision detection efficiently.
